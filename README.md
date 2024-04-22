@@ -1,4 +1,4 @@
-# Welcome to Form Insect Catch Game
+# Welcome to Insect Catch Game
 
 ## Technologies Used
 - HTML, CSS & JAVASCRIPT
